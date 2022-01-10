@@ -1,0 +1,7 @@
+true
+true
+false
+5
+true
+0
+arr is not defined
